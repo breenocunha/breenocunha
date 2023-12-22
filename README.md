@@ -1,4 +1,5 @@
-## Olá! Eu sou o Breno Cunha
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=HELLO%2C+MY+NAME+IS+Breno+Cunha;I'm+23+Years+Old;I+From+Brazil;Studying+Systems+Development" alt="Typing SVG" /></a>
 
 - 🔭 Estou buscando trabalho como front-end
 - 🌱 Estudando Javascript
@@ -30,3 +31,5 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/breenocunha/breenocunha/blob/output/github-contribution-grid-snake.svg)
