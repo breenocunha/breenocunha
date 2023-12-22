@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=HELLO%2C+MY+NAME+IS+Breno+Cunha;I'm+23+Years+Old;I+From+Brazil;Studying+Systems+Development" alt="Typing SVG" /></a>
+<div  align="center" style="margin-bottom:100px">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?              font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=HELLO%2C+MY+NAME+IS+Breno+Cunha;I'm+23+Years+Old;I+From+Brazil;Studying+Systems+Development" alt="Typing     SVG" /></a>
+</div>
 
 <div  align="center" style="margin-bottom:100px">
   <a href="https:github.com/breenocunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=transparent"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=transparent"/>
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=breenocunha&show_icons=true&theme=transparent&layout=compact" />
 </div>
 
@@ -29,23 +31,24 @@
 </div>
 
 #### Studying in this moment:
-
-<img src="https://icons8.com.br/icon/WHRLQdbEXQ16/google-cloud">&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+<div style="display: inline_block">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Breno-GoogleCloud" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+</div>
 
 #### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<div style="display: inline_block">
+  <img align="center" alt="Breno-MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Breno-MySQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
 #### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
+<div style="display: inline_block">
+  <img align="center" alt="Breno-VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Breno-VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="Breno-VSCode" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+  <img align="center" alt="Breno-VSCode" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
 &nbsp;
 &nbsp;
 
