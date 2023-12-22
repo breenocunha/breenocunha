@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=HELLO%2C+MY+NAME+IS+Breno+Cunha;I'm+23+Years+Old;I+From+Brazil;Studying+Systems+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=HELLO%2C+MY+NAME+IS+Breno+Cunha;I'm+23+Years+Old;I+From+Brazil;Studying+Systems+Development" alt="Typing SVG" /></a>
 
 - 🔭 Estou buscando trabalho como front-end
 - 🌱 Estudando Javascript
