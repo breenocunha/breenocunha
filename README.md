@@ -66,8 +66,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{breenocunha}/count.svg"></p><br>
 </div>
 
-![snake animation](https://github.com/breenocunha/breenocunha/blob/output/github-contribution-grid-snake.gif)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=breenocunha&repo=breenocunha&theme=react)](https://github.com/breenocunha/breenocunha)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
