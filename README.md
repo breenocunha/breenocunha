@@ -160,15 +160,17 @@ Me chamo Breno Cunha, tenho 24 anos e sou natural de Ananindeua do Pará. Atualm
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
+    width="400"
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="right" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats"    
+      width="350"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=breenocunha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
