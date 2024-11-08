@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Breno Cunha, tenho 24 anos e sou natural de Ananindeua do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@BreenoCunha)", onde ensino a criar projetos web.
+Me chamo Breno Cunha, tenho 24 anos e sou natural de Ananindeua do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Breeno Cunha](https://www.youtube.com/@BreenoCunha)", onde ensino a criar projetos web.
 
 <p align="left">
     <a href="https://www.youtube.com/@BreenoCunha?sub_confirmation=1">
