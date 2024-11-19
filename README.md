@@ -177,11 +177,11 @@ Me chamo Breno Cunha, tenho 24 anos e sou natural de Ananindeua do Pará. Atualm
 />
 <img 
     align="left" 
-    alt="Gradle" 
-    title="Gradle"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 </br></br></br></br></br>
