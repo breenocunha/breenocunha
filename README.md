@@ -184,9 +184,9 @@ Me chamo Breno Cunha, tenho 24 anos e sou natural de Ananindeua do Pará. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
 />
 
----
+</br>
 
-<br><br>
+---
 
 ### 📊 Estatísticas
 
