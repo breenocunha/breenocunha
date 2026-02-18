@@ -1,70 +1,85 @@
-# 👨🏻‍💻 Breeno Cunha
+<h1 align="center">
+  👋 Olá, eu sou o Breeno Cunha
+</h1>
 
-### Desenvolvedor Full Stack | Apaixonado por Programação e Tecnologia
-
-Olá! Me chamo **Breeno Cunha**, tenho 24 anos e sou natural de **Ananindeua – PA**.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
-
-Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar **projetos práticos, funcionais e bem estruturados**, sempre buscando boas práticas e evolução constante.
-
-Além disso, compartilho conhecimento e ensino programação através do meu canal no YouTube.
-
----
-
-## 🚀 Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor Full Stack  
-- 📚 Sempre aprendendo novas tecnologias  
-- 🎥 Criador de conteúdo sobre programação  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Programação;Criador+de+Projetos+Reais;Estudante+de+ADS&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"
+  />
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/breenocunha  
-- ▶️ **YouTube:** https://www.youtube.com/@breenocunha  
-- 💼 **GitHub:** https://github.com/breenocunha  
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📍 Natural de **Ananindeua – PA, Brasil**  
+💻 Desenvolvedor **Full Stack**  
+🎥 Criador de conteúdo sobre **programação e projetos práticos**
+
+Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções reais, bem estruturadas e utilizando boas práticas.
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🌐 Conecte-se comigo
 
-### Front-end
-- HTML5  
-- CSS3  
-- JavaScript  
-- TypeScript  
-- React  
-- Bootstrap  
-- Tailwind CSS  
+<p align="left">
+  <a href="https://www.linkedin.com/in/breenocunha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@breenocunha" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/breenocunha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### Back-end
-- Node.js  
-- PHP  
-- Laravel  
+---
 
-### Banco de Dados
-- MySQL  
-- SQLite  
+## 🛠️ Tecnologias
 
-### Ferramentas e Outros
-- Git & GitHub  
-- Python  
-- Java  
-- Figma  
-- Vercel  
-- Netlify  
+### 💻 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,java" />
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🧰 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breenocunha&layout=compact&theme=dark)
+<p align="center">
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=github_dark"
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=breenocunha&layout=compact&theme=github_dark"
+  />
+</p>
 
 ---
 
-## 📌 Objetivo
-Busco oportunidades para crescer profissionalmente na área de desenvolvimento, contribuir com projetos reais e evoluir como **Desenvolvedor Full Stack**, entregando soluções eficientes e de qualidade.
+## 🎯 Objetivo Profissional
+
+Busco oportunidades para evoluir como **Desenvolvedor Full Stack**, contribuir com projetos reais e crescer profissionalmente, sempre focado em aprendizado contínuo e qualidade de código.
 
 ---
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
+
+⭐ Se algum projeto te ajudou, considere deixar uma estrela!
