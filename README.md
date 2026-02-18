@@ -66,11 +66,11 @@ Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=breenocunha&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-black-eta-78.vercel.app//api?username=breenocunha&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=breenocunha&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-black-eta-78.vercel.app//api/top-langs/?username=breenocunha&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
   />
 </p>
 
