@@ -83,3 +83,11 @@ Busco oportunidades para evoluir como **Desenvolvedor Full Stack**, contribuir c
 ---
 
 ⭐ Se algum projeto te ajudou, considere deixar uma estrela!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breenocunha/breenocunha/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/breenocunha/breenocunha/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
