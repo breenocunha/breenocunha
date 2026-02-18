@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Programação;Criador+de+Projetos+Reais;Estudante+de+ADS&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Programação;Criador+de+Projetos+Reais;Estudante+de+ADS&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"
+    alt="Typing SVG"
   />
 </p>
 
